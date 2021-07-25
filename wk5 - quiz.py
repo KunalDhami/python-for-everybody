@@ -67,7 +67,7 @@ Find the smallest item in a list
 Count all of the elements in a list
 Compute the average of the elements in a list
 
-Answer: Sum all the elements of a list
+Answer: Count all of the elements in a list
 
 Question 7
 What will the following code print out?
